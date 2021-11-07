@@ -1,0 +1,2 @@
+rootProject.name = "post_request_kotlin"
+include ':app'
